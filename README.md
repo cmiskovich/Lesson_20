@@ -8,8 +8,7 @@ Completing the JointSavings smart contract in solidity.  Then create a folder na
 
 The following Technologies were used to develop this program:
 
-Python 
-    Version 3.9.7
+Solidity
 
 Terminal
     Version 2.12.5 (444)
