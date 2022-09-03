@@ -151,21 +151,7 @@ fallback (external payable)
 
 ## Libraries used in analysis
 
-Streamlit
-
-dataclass
-
-typing
-
-web3
-
-w3
-
-generate_account
-
-get_balance
-
-send_transaction
+pragma solidity ^0.5.0
 
 ---
 
